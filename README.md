@@ -27,3 +27,5 @@ A complete desktop environment built around Openbox.
 Provides a more integrated experience (panel, session management, file manager).
 
 Slightly heavier than IceWM but still among the lightest full DEs.
+
+(THIS PROJECT IS CANCELLED DUE TO CRASHES OF LIGHTDM NOT STARTING ICEWM AND LXDM DID NOT START)
